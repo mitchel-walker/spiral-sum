@@ -4,14 +4,6 @@
 #               all adjacent numbers to a given number within the square. The spiral dimensions and the numbers to use
 #               for summation are given in a text document called 'spiral.txt', and sums are printed
 
-#  Student Name: Mitchel Walker
-
-#  Student UT EID: mlw3852
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
 #  Date Created: 1/28/19
 
 #  Date Last Modified: 2/1/2019

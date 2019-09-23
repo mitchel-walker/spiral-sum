@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #  File: Spiral.py
 
 #  Description: Program creates a 2D, square array of numbers spiraling outwards from the middle (starting at 1), and sums
